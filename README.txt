@@ -16,4 +16,4 @@ Running the code:
 If you want to generate wordcloud picture of the post description of a subreddit's top posts, run the top_posts.py file.
 If it's for wordcloud picture of comments in a specific post, run the comments.py file.
 
-Sample word cloud pictures included in the repo. 
+Sample word cloud pictures included in the repo as top_cloud.jpg and comments_cloud.jpg. 
